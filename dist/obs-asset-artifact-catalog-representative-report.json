@@ -23,7 +23,7 @@
     }
   },
   "manualTestStatus": "手動テスト未実施",
-  "generatedAt": "2026-05-07T23:27:43.609Z",
+  "generatedAt": "2026-05-07T23:27:56.585Z",
   "scenarios": [
     {
       "id": "happy-path",
